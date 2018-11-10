@@ -1,0 +1,10 @@
+{
+  "name": "@pinguinorg/pinguins",
+  "version": "0.0.0",
+  "description": "The ecosystem for anything written in JavaScript...",
+  "main": "index.js",
+  "repository": "https://github.com/pinguinorg/Pinguins",
+  "author": "Misha Marinenko <a0x77@icloud.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
